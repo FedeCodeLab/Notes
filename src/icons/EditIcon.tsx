@@ -4,7 +4,7 @@ export default function EditIcon({ color, width, height }: IconProps) {
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
-      className="icon icon-tabler icon-tabler-pencil rounded-full w-full"
+      className="icon icon-tabler icon-tabler-pencil p-0"
       width={width}
       height={height}
       viewBox="0 0 24 24"

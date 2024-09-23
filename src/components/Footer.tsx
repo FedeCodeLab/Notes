@@ -3,14 +3,14 @@ import Linkedin from "@/icons/Linkedin";
 
 export default function Footer() {
   return (
-    <footer className="bg-slate-200">
+    <footer className="bg-slate-200 mt-auto">
       <div className="w-[90%] mx-auto flex justify-between py-12">
         <div className="flex flex-col gap-2">
           <p className="text-sm font-semibold">
             Hecho con Next.js por Federico Pablo Guzmán · Todos los derechos
             reservados.
           </p>
-          <p className="text-sm text-zinc-800">federicoguzman.css@gmail.com</p>
+          <p className="text-sm text-zinc-600">federicoguzman.css@gmail.com</p>
         </div>
         <div className="flex gap-4">
           <a

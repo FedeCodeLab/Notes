@@ -14,7 +14,7 @@ export default function Home() {
           <span>
             <CreateIcon color={"#fff"} width={20} height={20} />
           </span>
-          Crea una nueva nota
+          Crea una nueva notaa
         </Link>
       </div>
       <Cards />
